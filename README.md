@@ -39,7 +39,7 @@ For KKN, our model received an F1 score of .69
 
 For Logistic Regression, our model received an F1 score of .63
 
-For Decision Tree, our model received an F1 score of .81
+For Decision Tree, our model received an F1 score of .86
 
 For Random Forest, our model received an F1 score of .74
 
