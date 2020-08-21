@@ -46,3 +46,5 @@ For Random Forest, our model received an F1 score of .74
 For XG Boost, our model received an F1 score of .72
 ### Best Model
 Our best model was Decision Tree with an F1 Score of 0.86. The most important feature was if the player had made an All Star Game Appearance. Surprisingly, points per game and total points were not very important features.
+## Presentation
+https://docs.google.com/presentation/d/1T1PhAxWGVN4IW_CZVTbBfs7XRTt6DXTJG_onLAz2il4/edit
